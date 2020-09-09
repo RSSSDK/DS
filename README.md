@@ -1,3 +1,3 @@
 # DS
 
-New file in scripts
+Applied Data science Capstone Project 
