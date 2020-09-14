@@ -1,0 +1,15 @@
+Data Understanding 
+
+In this phase, I will use csv file provided by Coursera. The main attributes I will use as independent variables are: WEATHER, Speeding, FATALITIES, ROADCOND, LIGHTCOND and the Day (INCDTTM), that adequate to train my machine learning model. Also, I will assess the condition of these attributes by looking for skewed information and the correlations between them and the severity of the accident. 
+
+Data preparation 
+
+In this phase I will build the final dataset that fed my model by: 
+
+Filling missing data  
+
+Perform one hot-encoding for codec data  
+
+Derive new features like Day in a week. 
+
+Finally, balance and normalize all data. 
