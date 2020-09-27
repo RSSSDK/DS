@@ -21,6 +21,4 @@ Filling missing data
 
 Perform one hot-encoding for codec data  
 
-Derive new features like Day in a week. 
-
 Finally, balance and normalize all data. 
