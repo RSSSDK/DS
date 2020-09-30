@@ -15,7 +15,7 @@ Data preparation
 
 In this phase I will build the final dataset that fed my model by:
 
-1. Filling missing data
+1.Filling missing data
 
 2.Perform one hot-encoding for codec data.
 
