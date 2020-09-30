@@ -2,7 +2,7 @@
 
 Applied Data science Capstone Project 
 
-Business Understanding 
+## Business Understanding 
 
 Because of the increase in the number of cars and the raise of accidents happened in the roads too, this cause injuries or fatalities to people, waste time and cost for police and rescue vehicles, traffic delay in the area. 
 
