@@ -15,8 +15,6 @@ Data preparation
 
 In this phase I will build the final dataset that fed my model by: 
 
-Filling missing data  
-
-Perform one hot-encoding for codec data  
-
-Finally, balance and normalize all data. 
+      - Filling missing data  
+      - Perform one hot-encoding for codec data  
+      - Finally, balance and normalize all data. 
