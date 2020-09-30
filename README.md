@@ -13,7 +13,7 @@ In this phase, I will use csv file provided by Coursera. The main attributes I w
 
 Data preparation 
 
-In this phase I will build the final dataset that fed my model by: 
--Filling missing data  
--Perform one hot-encoding for codec data  
+In this phase I will build the final dataset that fed my model by:
+-Filling missing data
+-Perform one hot-encoding for codec data.
 -Finally, balance and normalize all data. 
